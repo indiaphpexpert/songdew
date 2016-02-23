@@ -1,3 +1,3 @@
 <?php
-echo 'This is testing changes from desktop';
+echo 'This is testing';
 ?>
